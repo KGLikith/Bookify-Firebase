@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A lightweight project designed to explore Firebase, focusing on Firestore for real-time database management and Firebase Storage for efficient image handling.
+Bookify serves as a basic book management application, allowing users to add, view, and store information about books. 
+This project showcases Firebase's core features in action and provides a foundation for future app enhancements and Firebase integrations.
